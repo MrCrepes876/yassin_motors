@@ -211,7 +211,7 @@ img {
   font-size: 50px;
   color: transparent;
   -webkit-text-stroke: 0.1px white;
-  background: url(./img/yellow) no-repeat;
+  background: url(../img/yellow.jpg) no-repeat;
   -webkit-background-clip: text;
   -webkit-animation: gradient 10s infinite linear;
           animation: gradient 10s infinite linear;
@@ -261,7 +261,7 @@ header {
   padding: 12px 0 100px;
   position: relative;
   background-color: black;
-  background-image: url(./img/bg);
+  background-image: url(../img/header-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -417,7 +417,7 @@ button {
   font-weight: 700;
   text-transform: uppercase;
   color: #000;
-  background: url(./img/bg.png) top left repeat, #ffd518;
+  background: url(../img/bg.png) top left repeat, #ffd518;
   color: #fff;
 }
 
